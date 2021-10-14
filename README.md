@@ -35,7 +35,7 @@ A devolução deve ocorrer a mesma confirmação através de login e senha pelo 
     3.	Emitir relatórios de todas as movimentações ocorridas no sistema;
 
 
-4.	REQUISITOS FUNCIONAIS (RF) E NÃO FUNCIONAIS (RNF)
+4.	### REQUISITOS FUNCIONAIS (RF) E NÃO FUNCIONAIS (RNF)
 
 #### REQUISITOS FUNCIONAIS (RF)
 
