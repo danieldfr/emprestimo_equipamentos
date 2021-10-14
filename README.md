@@ -57,5 +57,5 @@ RNF 01 | O sistema deve ser mobile e web
 RNF 02 | O sistema deve ter o banco em nuvem
 RNF 03 | Será utilizado criptografia para autenticação JWT
  
- 
-
+ ---
+### SUGESTÕES
