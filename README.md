@@ -25,14 +25,14 @@ Para a retirada será necessária a confirmação do administrador do sistema e 
 A devolução deve ocorrer a mesma confirmação através de login e senha pelo administrador do sistema e do usuário solicitante. Porém haverá conferência dos equipamentos e se houver ocorrência ela será registrada no processo de empréstimo e repassada para o solicitante as medidas que devem ser tomadas.
 
 2.	### FUNCIOALIDADES BÁSICAS
-    1.	;
-    2.	;
-    3.	;
+- [ ] Cadastrar equipamentos e usuários;
+- [ ] Realizar agendamentos;
+- [ ] Visualizar calendário de agendamentos;
 
 3.	### FUNCIOALIDADES FUTURAS
-    1.	Ter a possibilidade de registrar ocorrências com os equipamentos emprestados durante o empréstimo pelo usuário responsável;
-    2.	Notificação para lembretes de retirada, devoluções;
-    3.	Emitir relatórios de todas as movimentações ocorridas no sistema;
+- [ ] Ter a possibilidade de registrar ocorrências com os equipamentos emprestados durante o empréstimo pelo usuário responsável;
+- [ ] Notificação para lembretes de retirada, devoluções;
+- [ ] Emitir relatórios de todas as movimentações ocorridas no sistema;
 
 
 4.	### REQUISITOS FUNCIONAIS (RF) E NÃO FUNCIONAIS (RNF)
