@@ -59,3 +59,5 @@ RNF 03 | Será utilizado criptografia para autenticação JWT
  
  ---
 ### SUGESTÕES
+
+[] Estudar mais GIT
